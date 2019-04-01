@@ -4,7 +4,8 @@ This is the implementation of our paper "Bayesian DeNet: Monocular Depth Predict
 <center>
 <img src="figs/Fig1.png" width=410 height=290 />
 </center>
-The demo video is comming soon...
+The demo video is comming soon...  
+
 ### Dependences
 * Tensorflow
 * OpenCV
