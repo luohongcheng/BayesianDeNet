@@ -1,14 +1,14 @@
 ## BayesianDeNet
 
 This is the implementation of our paper "Bayesian DeNet: Monocular Depth Prediction and Frame-wise Fusion with Synchronized Uncertainty".
-<center>
+
 <img src="figs/Fig1.png" width=410 height=290 />
-</center>
+
 
 Demo Video: 
-<center>
+
 [![IMAGE ALT TEXT](figs/demo.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-</center>
+
 ### Dependences
 * Tensorflow
 * OpenCV
