@@ -4,8 +4,11 @@ This is the implementation of our paper "Bayesian DeNet: Monocular Depth Predict
 <center>
 <img src="figs/Fig1.png" width=410 height=290 />
 </center>
-The demo video is comming soon...  
 
+Demo Video: 
+<center>
+[![IMAGE ALT TEXT](figs/demo.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+</center>
 ### Dependences
 * Tensorflow
 * OpenCV
@@ -46,3 +49,6 @@ If you find this code useful, please cite:
 >  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;journal={IEEE Transactions on Multimedia},    
 >  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;year = {2019},  
 > }
+
+### Acknowledgement
+We thank [FCRN ](https://github.com/iro-cp/FCRN-DepthPrediction) for their released code.
