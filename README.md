@@ -7,7 +7,7 @@ This is the implementation of our paper "Bayesian DeNet: Monocular Depth Predict
 
 Demo Video: 
 
-[![IMAGE ALT TEXT](figs/demo.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT](figs/demo.png)](https://www.youtube.com/watch?v=DwH3RtjfQB8)
 
 ### Dependences
 * Tensorflow
