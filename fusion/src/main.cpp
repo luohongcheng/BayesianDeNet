@@ -1,7 +1,7 @@
-#include "Frame.h"
-#include "FileIO.h"
-#include "Constant.h"
-#include "ProAndFusion.h"
+#include "frame.h"
+#include "file_io.h"
+#include "constant.h"
+#include "pro_and_fusion.h"
 
 int main() {
 

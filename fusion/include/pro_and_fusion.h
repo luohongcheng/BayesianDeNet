@@ -1,7 +1,7 @@
 #ifndef PROANDFUSION_H
 #define PROANDFUSION_H
 
-#include "Frame.h"
+#include "frame.h"
 
 void propogate_depth(const FramePath &frame_path_pre, const FramePath &frame_path_curr, const cv::Mat& Ki, Frame &frame_pre, Frame &frame_curr,
                      bool do_post_process);

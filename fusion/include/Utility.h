@@ -1,7 +1,7 @@
 #ifndef UTILITY_H
 #define UTILITY_H
 
-#include "Frame.h"
+#include "frame.h"
 
 cv::Mat resize_depth(const cv::Mat &src, int cols, int rows);
 

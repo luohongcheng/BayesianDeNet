@@ -1,7 +1,7 @@
 #include <Eigen/Core>
 #include <Eigen/Geometry>
 
-#include "ProAndFusion.h"
+#include "pro_and_fusion.h"
 
 void post_process(cv::Mat& propogated_depth, cv::Mat &propogated_uncertainty) {
 

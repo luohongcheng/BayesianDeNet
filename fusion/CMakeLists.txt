@@ -10,7 +10,7 @@ find_package(OpenCV REQUIRED)
 include_directories(include)
 include_directories(/home/lhc/library/eigen-eigen-5a0156e40feb/)
 
-add_executable(fusion src/main.cpp src/FileIO.cpp src/ProAndFusion.cpp src/Utility.cpp)
+add_executable(fusion src/main.cpp src/file_io.cpp src/pro_and_fusion.cpp src/utility.cpp)
 
 
 target_link_libraries(fusion ${OpenCV_LIBS})

@@ -1,7 +1,7 @@
-#ifndef FILEIO_H
-#define FILEIO_H
+#ifndef FILE_IO_H
+#define FILE_IO_H
 
-#include "Frame.h"
+#include "frame.h"
 
 void process_frame_paths(std::vector<FramePath>& frame_paths);
 

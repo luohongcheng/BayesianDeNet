@@ -1,7 +1,7 @@
 #include <fstream>
 
-#include "FileIO.h"
-#include "Utility.h"
+#include "file_io.h"
+#include "utility.h"
 
 void load_frame(const FramePath& frame_path, Frame& frame, int cols, int rows, float ushort_factor) {
 
